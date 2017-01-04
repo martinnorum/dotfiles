@@ -1,0 +1,13 @@
+" ============================ Ag ============================
+" https://github.com/rking/ag.vim
+if executable('ag')
+  " Use Ag over Grep
+  set grepprg=ag\ --nogroup\ --nocolor
+  let g:ackprg = 'ag --vimgrep --smart-case'                                                   
+  cnoreabbrev ag Ack                                                                           
+  cnoreabbrev aG Ack                                                                           
+  cnoreabbrev Ag Ack                                                                           
+  cnoreabbrev AG Ack 
+endif
+
+" vim:ft=vim
