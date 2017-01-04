@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/martin.norum/Projects/checkout/src/next'
+let g:netrw_dirhist_2='/Users/martin.norum/Projects/checkout/src/next/features'
+let g:netrw_dirhist_3='/Users/martin.norum/Projects/checkout/src/next/features/merchant'
+let g:netrw_dirhist_4='/Users/martin.norum/Projects/checkout'
+let g:netrw_dirhist_5='/Users/martin.norum/Projects/checkout/src'
+let g:netrw_dirhist_6='/Users/martin.norum/Projects/ui'
+let g:netrw_dirhist_7='/Users/martin.norum/Projects/ui/Installments'
+let g:netrw_dirhist_8='/Users/martin.norum'
+let g:netrw_dirhist_9='/Users/martin.norum/Projects/checkout'
