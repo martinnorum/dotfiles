@@ -24,8 +24,8 @@ function! s:SourceConfigFilesIn(directory)
   endfor
 endfunction
 
-"call s:SourceConfigFilesIn('configs')
-"call s:SourceConfigFilesIn('plug_configs')
+call s:SourceConfigFilesIn('configs')
+call s:SourceConfigFilesIn('plug_configs')
 
 
 " vim:ft=vim
