@@ -65,6 +65,12 @@ Plug 'git@github.com:mileszs/ack.vim.git'
 " fugitive.vim: a Git wrapper so awesome, it should be illegal 
 Plug 'git@github.com:tpope/vim-fugitive.git'
 
+" vim-easymotion - Vim motion on speed!
+Plug 'https://github.com/easymotion/vim-easymotion'
+
+" UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+Plug 'https://github.com/SirVer/ultisnips'
+
 call plug#end()
 
 " vim:ft=vim
