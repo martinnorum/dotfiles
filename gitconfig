@@ -1,0 +1,14 @@
+[user]
+	name = Martin E Norum
+	email = martin.norum@klarna.com
+[alias]
+	co = checkout
+	s = status
+	l = log --all --decorate --oneline --graph
+	br = branch
+	ci = commit
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	unpushed = log @{u}..
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
