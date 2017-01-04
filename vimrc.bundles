@@ -13,7 +13,7 @@ Plug 'https://github.com/junegunn/vim-github-dashboard.git'
 Plug 'git@github.com:ctrlpvim/ctrlp.vim.git'
 
 " A tree explorer plugin for vim.
-"Plug 'https://github.com/scrooloose/nerdtree.git'
+Plug 'https://github.com/scrooloose/nerdtree.git'
 
 " NERDTree and tabs together in Vim, painlessly
 "Plug 'https://github.com/jistr/vim-nerdtree-tabs.git'
@@ -55,6 +55,9 @@ Plug 'git://github.com/tpope/vim-vinegar.git'
 
 " Git gutter
 Plug 'airblade/vim-gitgutter'
+
+" Elm
+Plug 'git@github.com:lambdatoast/elm.vim.git'
 
 " Ack vim
 Plug 'git@github.com:mileszs/ack.vim.git'
