@@ -56,6 +56,9 @@ Plug 'git://github.com/tpope/vim-vinegar.git'
 " Git gutter
 Plug 'airblade/vim-gitgutter'
 
+" Ack vim
+Plug 'git@github.com:mileszs/ack.vim.git'
+
 call plug#end()
 
 " vim:ft=vim
