@@ -23,7 +23,7 @@ endif
 set showcmd " Display incomplete commands
 set showmode " Show current mode
 
-colorscheme solarized
+colorscheme material-theme
 filetype plugin indent on
 
 set list listchars=tab:»·,trail:· " Display tabs and trailing spaces
