@@ -1,0 +1,6 @@
+" ============================ Ack ===========================
+" https://github.com/mileszs/ack.vim/
+
+ck_lhandler = "botright lopen 30"
+
+vim:ft=vim
