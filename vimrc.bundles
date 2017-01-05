@@ -74,6 +74,9 @@ Plug 'https://github.com/SirVer/ultisnips'
 " surround.vim: quoting/parenthesizing made simple
 Plug 'https://github.com/tpope/vim-surround'
 
+" Start a * or # search from a visual block
+Plug 'git@github.com:bronson/vim-visual-star-search.git'
+
 call plug#end()
 
 " vim:ft=vim
