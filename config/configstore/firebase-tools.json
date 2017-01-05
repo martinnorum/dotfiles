@@ -1,0 +1,35 @@
+{
+	"analytics-uuid": "0f62ddb9-c099-4749-bf51-f6586e070c63",
+	"motd": {},
+	"motd.fetched": 1481302111081,
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"at_hash": "hd0hxjfeMk20kzntFI2CRA",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "118068585857629935754",
+		"email_verified": true,
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"email": "martin.norum@gmail.com",
+		"iat": 1475496314,
+		"exp": 1475499914
+	},
+	"tokens": {
+		"expires_at": 1481305710720,
+		"refresh_token": "1/N_HwbGbpnYCx2gUKr2IJ6b82g2fHPA8zjm6QCg8Xe_4",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.CjGvAy1SfIgRCf49tuvijpPNAwd1V-cTtNL_Di6OXW_nn1mHMrjcBEPLXli6TeNQdcuf",
+		"token_type": "Bearer",
+		"expires_in": 3600,
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc4MjkyMmY0MDQzZTRmNDM3MDI2YzM2MWI3ODc2ZTc2ZGNkOWI5MmYifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiaWF0IjoxNDgxMzAyMTEwLCJleHAiOjE0ODEzMDU3MTAsImF0X2hhc2giOiJOMkJmT2FzamRnQ3d1T0pOVmkyTEVBIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE4MDY4NTg1ODU3NjI5OTM1NzU0IiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjU2MzU4NDMzNTg2OS1mZ3JoZ21kNDdicW5la2lqNWk4YjVwcjAzaG84NDllNi5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImVtYWlsIjoibWFydGluLm5vcnVtQGdtYWlsLmNvbSJ9.UudhaVze1qf5O0DT-4fkuC-lUaHK59pHKWc2ph4cmtPwfrTK0WYgdMPTnwV1CK4hWXBbHuphnuSVZHiR9LQgAnFTBHccO_PHqVclABmPnzC4jnmCrz3QocIIF8xx3HW2ekTIIQVDRzHckW9z37MsZ7JUhO9OHEuRpxHrjVVFDnyAc6jy4tgGlmqQwtQ4UPgHRbIpeox-iy5DkB7dLXAXy_wPf5x0BxmTIk8e7X9n3rcBm1KHY7hU1d9hOUzMVWdnINrR9fSGMWwICYYD04x6UBSzgdFlriW_Mjq5shKyKjf7QFFXT2eKCkKakdqS07gl6fMj2905x0Bc6zwQtj6jAg"
+	},
+	"activeProjects": {
+		"/Users/martinnorum/tmp/firebase-test": "production",
+		"/Users/martinnorum/projects/pax/frontend": "pax-spa"
+	}
+}
