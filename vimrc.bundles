@@ -34,8 +34,8 @@ Plug 'https://github.com/vim-airline/vim-airline.git'
 " Plug 'pangloss/vim-javascript'
 
 " YouCompleteMe
-Plug 'Valloric/YouCompleteMe'
-Plug 'ternjs/tern_for_vim'
+"Plug 'Valloric/YouCompleteMe'
+"Plug 'ternjs/tern_for_vim'
 
 " YAJS.vim: Yet Another JavaScript Syntax for Vim
 Plug 'othree/yajs.vim', { 'for': 'javascript' }
