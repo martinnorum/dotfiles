@@ -71,13 +71,15 @@ Plug 'git@github.com:tpope/vim-fugitive.git'
 Plug 'https://github.com/easymotion/vim-easymotion'
 
 " UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-Plug 'https://github.com/SirVer/ultisnips'
+"Plug 'https://github.com/SirVer/ultisnips'
 
 " surround.vim: quoting/parenthesizing made simple
 Plug 'https://github.com/tpope/vim-surround'
 
 " Start a * or # search from a visual block
 Plug 'git@github.com:bronson/vim-visual-star-search.git'
+
+Plug 'mhartington/oceanic-next'
 
 call plug#end()
 

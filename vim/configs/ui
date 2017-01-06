@@ -11,6 +11,12 @@ syntax on " Turn on syntax highlighting
 "colorscheme material-theme
 "filetype plugin indent on
 
+if (has("termguicolors"))
+ set termguicolors
+endif
+
+"colorscheme material-theme
+colorscheme OceanicNext
 
 " ===================== From Andreas Arledal ================
 set laststatus=2
@@ -23,7 +29,6 @@ endif
 set showcmd " Display incomplete commands
 set showmode " Show current mode
 
-colorscheme material-theme
 filetype plugin indent on
 
 set list listchars=tab:»·,trail:· " Display tabs and trailing spaces
