@@ -4,6 +4,11 @@ Managed by [rcm](https://github.com/thoughtbot/rcm) from [thoughtbot](https://th
 Greatly inspired by Andreas Arledals dotfiles.
 
 ## Installation
+
+### Install Powerline fonts
+
+Fetch them [here](https://github.com/powerline/fonts)
+
 ### Install python
 
 Python is used for YouCompleteMe code completion so head on over to the [download page](https://www.python.org/downloads/) and install the latest and greatest.

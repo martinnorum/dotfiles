@@ -20,6 +20,7 @@ Plug 'https://github.com/scrooloose/nerdtree.git'
 
 " lean & mean status/tabline for vim that's light as air
 Plug 'https://github.com/vim-airline/vim-airline.git'
+Plug 'vim-airline/vim-airline-themes'
 
 " Vim motions on speed!
 " Plug 'https://github.com/easymotion/vim-easymotion.git'
