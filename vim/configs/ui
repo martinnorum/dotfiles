@@ -17,6 +17,7 @@ endif
 
 "colorscheme material-theme
 colorscheme OceanicNext
+set nowrap
 
 " ===================== From Andreas Arledal ================
 set laststatus=2
