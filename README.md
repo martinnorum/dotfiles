@@ -5,6 +5,20 @@ Greatly inspired by Andreas Arledals dotfiles.
 
 ## Installation
 
+### Brew installations
+- homebrew
+- chrome
+- intellij
+- atom
+- alfred
+- firefox
+- dash
+- 1password
+- steam
+- airmail
+- slack
+- iterm
+
 ### Install Powerline fonts
 
 Fetch them [here](https://github.com/powerline/fonts)
