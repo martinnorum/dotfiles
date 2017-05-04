@@ -5,8 +5,13 @@ Greatly inspired by Andreas Arledals dotfiles.
 
 ## Installation
 
+### Install homebrew and cask
+``` mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew ```
+``` brew tap caskroom/cask ```
+
 ### Brew installations
 - homebrew
+- brew cask
 - chrome
 - intellij
 - atom
@@ -18,6 +23,7 @@ Greatly inspired by Andreas Arledals dotfiles.
 - airmail
 - slack
 - iterm
+- spectacle
 
 ### Install Powerline fonts
 
