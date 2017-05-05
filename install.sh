@@ -56,6 +56,7 @@ casks=(
     plex-media-player
     slack
     sourcetree
+    spotify
     spectacle
     steam
     visual-studio-code
