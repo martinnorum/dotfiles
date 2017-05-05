@@ -12,6 +12,8 @@ Fist, clone this repo into ```~/.dotfiles```. To do this you need to have git in
 
 When this is done, run install script
 
+Then update the .dotfiles ```rcup -x README.md -x config -x install.sh```
+
 Then install Airmail from App Store
 
 
