@@ -1,4 +1,4 @@
-# Martin Norum dotfiles
+# Martin Engelsøy Norums dotfiles
 Managed by [rcm](https://github.com/thoughtbot/rcm) from [thoughtbot](https://thoughtbot.com/).
 
 Greatly inspired by Andreas Arledals dotfiles.
