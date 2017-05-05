@@ -14,6 +14,7 @@ apps=(
     git
     git-number
     liquidprompt
+    neovim/neovim/neovim
     nvm
     pyenv
     pyenv-virtualenv
@@ -66,6 +67,10 @@ brew link --force gettext
 
 # Install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+# Symlink neovims rc
+ln -s ~/.vimrc ~/.config/nvim/init.vim
+
 
 pip install virtualenvwrapper
 
