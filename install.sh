@@ -42,6 +42,7 @@ casks=(
     dash
     day-o
     fantastical
+    evernote
     firefox
     flux
     google-chrome
