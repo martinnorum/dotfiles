@@ -5,6 +5,11 @@ Greatly inspired by Andreas Arledals dotfiles.
 
 ## Installation
 
+Fist, clone this repo. To do this you need to have git installed and [setup against GitHub.](https://help.github.com/articles/set-up-git/)
+
+When this is done, run install script
+
+
 ### Install homebrew and cask
 
 ``` mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew ```
