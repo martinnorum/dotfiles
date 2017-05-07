@@ -59,6 +59,7 @@ casks=(
     spotify
     spectacle
     steam
+    strongvpn-client
     visual-studio-code
     vlc
     webstorm
