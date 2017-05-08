@@ -19,6 +19,7 @@ Then update the .dotfiles ```rcup -x README.md -x config -x install.sh```
 Then install Airmail from App Store
 
 
-### Install Powerline fonts
+### Themeing
 
-Fetch them [here](https://github.com/powerline/fonts)
+[Powerline fonts](https://github.com/powerline/fonts)
+[Snazzy](https://github.com/sindresorhus/iterm2-snazzy)
