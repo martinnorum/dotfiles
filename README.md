@@ -21,5 +21,6 @@ Then install Airmail from App Store
 
 ### Themeing
 
-[Powerline fonts](https://github.com/powerline/fonts)
-[Snazzy](https://github.com/sindresorhus/iterm2-snazzy)
+Fonts: [Powerline fonts](https://github.com/powerline/fonts)
+
+Theme: [Snazzy](https://github.com/sindresorhus/iterm2-snazzy)
