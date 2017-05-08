@@ -92,6 +92,8 @@ alias vim=nvim
 #export NVM_DIR="~/.nvm"
 #[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 
+source ~/.secrets
+
 export NVM_DIR="$HOME/.nvm"
 . "/usr/local/opt/nvm/nvm.sh"
 
