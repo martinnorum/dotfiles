@@ -28,6 +28,7 @@ apps=(
     yarn
     zsh
     zsh-completions
+    zsh-syntax-highlighting
 )
 
 brew install "${apps[@]}"

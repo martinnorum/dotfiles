@@ -55,6 +55,10 @@ plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew
 eval $(thefuck --alias)
 
 source $ZSH/oh-my-zsh.sh
+
+autoload -U promptinit; promptinit
+prompt pure
+
 #source ~/Projects/config/env.sh
 
 # User configuration
@@ -102,3 +106,4 @@ export PATH="$PATH:$HOME/.rvm/bin:$HOME/bin" # Add RVM to PATH for scripting
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 #export SDKMAN_DIR="/Users/martin.norum/.sdkman"
 #[[ -s "/Users/martin.norum/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/martin.norum/.sdkman/bin/sdkman-init.sh"
+source ~/.dotfiles/config/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
