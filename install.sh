@@ -52,6 +52,7 @@ casks=(
     iterm2
     java
     kaleidoscope
+    microsoft-office
     parallels-desktop
     plex-media-player
     slack
