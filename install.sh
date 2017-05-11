@@ -57,6 +57,7 @@ casks=(
     parallels-desktop
     plex-media-player
     slack
+    skitch
     sourcetree
     spotify
     spectacle
