@@ -10,6 +10,7 @@ fi
 apps=(
     bash-completion
     chromedriver
+    firebase-cli
     gettext
     git
     git-number
