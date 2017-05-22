@@ -50,6 +50,7 @@ casks=(
     google-chrome
     google-drive
     google-photos-backup
+    handbrake
     intellij-idea
     iterm2
     java
