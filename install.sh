@@ -43,6 +43,7 @@ casks=(
     atom
     dash
     day-o
+    doxie
     fantastical
     evernote
     firefox
