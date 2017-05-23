@@ -69,6 +69,7 @@ casks=(
     visual-studio-code
     vlc
     webstorm
+    whatsapp
 )
 
 brew cask install "${casks[@]}"
