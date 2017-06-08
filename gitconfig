@@ -9,6 +9,7 @@
 	s = status
 	l = log --pretty=format:\"%h %ad | %s%Cblue%d %Creset[%an]\" --graph --date=short
 	la = log --pretty=format:\"%h %ad | %s%Cblue%d %Creset[%an]\" --graph --date=short --all
+	ub = "!git fetch && git branch -f master origin/master && git merge --ff-only master"
 	# lg = log --oneline --decorate --graph
       	# lga = log --oneline --decorate --graph --all
 	a = add --interactive
@@ -24,3 +25,16 @@
 [mergetool "sourcetree"]
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
+[mergetool "Kaleidoscope"]
+	cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
+	trustexitcode = true
+[merge]
+	tool = Kaleidoscope
+[difftool "Kaleidoscope"]
+	cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
+[difftool]
+	prompt = false
+[mergetool]
+	prompt = false
+[diff]
+	tool = Kaleidoscope
