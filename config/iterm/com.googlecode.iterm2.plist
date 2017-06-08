@@ -812,13 +812,13 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>970 775 620 392 0 0 2560 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>416 944 796 473 0 0 2560 1440 </string>
+	<string>416 917 796 473 0 0 2560 1417 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>230 833 592 584 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1287 14 629 1426 0 0 2560 1417 </string>
+	<string>711 625 970 792 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>1 205 1090 972 0 0 2560 1417 </string>
+	<string>1280 7 1274 1404 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>364 158 1090 972 0 0 2560 1417 </string>
 	<key>New Bookmarks</key>
@@ -1762,7 +1762,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-05-09T08:32:54Z</date>
+	<date>2017-06-07T12:54:52Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
