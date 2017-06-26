@@ -12,10 +12,10 @@ Plug 'https://github.com/vim-syntastic/syntastic.git'
 
 " Vastly improved Javascript indentation and syntax support in Vim.
 " Plug 'pangloss/vim-javascript'
-Plug 'Valloric/YouCompleteMe'
+"Plug 'Valloric/YouCompleteMe'
 Plug 'ternjs/tern_for_vim'
 Plug 'git@github.com:mxw/vim-jsx.git'
-Plug 'git@github.com:ElmCast/elm-vim.git'
+"Plug 'git@github.com:ElmCast/elm-vim.git'
 Plug 'othree/yajs.vim', { 'for': 'javascript' }
 Plug 'mxw/vim-jsx'
 Plug 'elzr/vim-json'
