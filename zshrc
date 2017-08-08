@@ -56,8 +56,8 @@ eval $(thefuck --alias)
 
 source $ZSH/oh-my-zsh.sh
 
-autoload -U promptinit; promptinit
-prompt pure
+#autoload -U promptinit; promptinit
+#prompt pure
 
 #source ~/Projects/config/env.sh
 
@@ -99,12 +99,12 @@ alias vim=nvim
 source ~/.secrets
 source ~/.localPath
 
-export NVM_DIR="$HOME/.nvm"
-. "/usr/local/opt/nvm/nvm.sh"
+#export NVM_DIR="$HOME/.nvm"
+#. "/usr/local/opt/nvm/nvm.sh"
 
 export PATH="$PATH:$HOME/.rvm/bin:$HOME/bin" # Add RVM to PATH for scripting
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 #export SDKMAN_DIR="/Users/martin.norum/.sdkman"
 #[[ -s "/Users/martin.norum/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/martin.norum/.sdkman/bin/sdkman-init.sh"
-source ~/.dotfiles/config/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+#source ~/.dotfiles/config/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
