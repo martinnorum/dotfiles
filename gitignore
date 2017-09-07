@@ -25,6 +25,3 @@ node_modules
 .sass-cache
 
 **.swp
-
-# Private files
-*.martin.*

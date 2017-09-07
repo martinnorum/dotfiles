@@ -14,7 +14,6 @@
       	# lga = log --oneline --decorate --graph --all
 	a = add --interactive
 	unpushed = cherry -v 
-  t = tag --sort=v:refname
 [core]
 	editor = vim
 	excludesfile = ~/.gitignore

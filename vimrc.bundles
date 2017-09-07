@@ -31,7 +31,6 @@ Plug 'git@github.com:bronson/vim-visual-star-search.git'
 Plug 'mhartington/oceanic-next'
 Plug 'hail2u/vim-css3-syntax'
 Plug 'severin-lemaignan/vim-minimap'
-Plug 'pangloss/vim-javascript'
 
 call plug#end()
 
