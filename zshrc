@@ -108,5 +108,3 @@ export PATH="$PATH:$HOME/.rvm/bin:$HOME/bin" # Add RVM to PATH for scripting
 #export SDKMAN_DIR="/Users/martin.norum/.sdkman"
 #[[ -s "/Users/martin.norum/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/martin.norum/.sdkman/bin/sdkman-init.sh"
 #source ~/.dotfiles/config/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
