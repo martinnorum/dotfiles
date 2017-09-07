@@ -1,0 +1,23 @@
+pane	0	0	:[tmux]	1	:*	0	:/home/marnor	1	zsh	:
+pane	kambi	0	:otc	0	:	0	:/home/marnor/Workspace/otc-client	1	nvim	:nvim .
+pane	kambi	0	:otc	0	:	1	:/home/marnor/Workspace/otc-client	0	zsh	:
+pane	kambi	0	:otc	0	:	2	:/home/marnor/Workspace/otc-client	0	zsh	:
+pane	kambi	1	:sst	0	:	0	:/home/marnor/Workspace/sst-client	1	nvim	:nvim .
+pane	kambi	1	:sst	0	:	1	:/home/marnor/Workspace/sst-client	0	zsh	:
+pane	kambi	1	:sst	0	:	2	:/home/marnor/Workspace/sst-client	0	zsh	:
+pane	kambi	2	:betting-client	0	:	0	:/home/marnor/Workspace/html5-client	1	zsh	:
+pane	kambi	2	:betting-client	0	:	1	:/home/marnor/Workspace/html5-client	0	zsh	:
+pane	kambi	2	:betting-client	0	:	2	:/home/marnor/Workspace/html5-client	0	zsh	:
+pane	kambi	3	:terminal-middleware	0	:	0	:/home/marnor/Workspace/terminal-middleware	1	zsh	:
+pane	kambi	4	:krc	0	:-	0	:/home/marnor/Workspace/kambi-retail-common	0	nvim	:nvim .
+pane	kambi	4	:krc	0	:-	1	:/home/marnor/Workspace/kambi-retail-common	1	zsh	:
+pane	kambi	6	:home	1	:*	0	:/home/marnor	1	zsh	:
+pane	kambi	6	:home	1	:*	1	:/home/marnor/Workspace/otc-client	0	zsh	:
+window	0	0	1	:*	d6fd,546x88,0,0,0
+window	kambi	0	0	:	49fd,546x88,0,0{274x88,0,0,1,113x88,275,0,2,157x88,389,0,3}
+window	kambi	1	0	:	64c7,546x88,0,0{230x88,0,0,4,157x88,231,0,5,157x88,389,0,6}
+window	kambi	2	0	:	e4d1,546x88,0,0{230x88,0,0,7,157x88,231,0,8,157x88,389,0,9}
+window	kambi	3	0	:	6baf,546x88,0,0,10
+window	kambi	4	0	:-	b364,546x88,0,0{273x88,0,0,11,272x88,274,0,12}
+window	kambi	6	1	:*	b367,546x88,0,0{273x88,0,0,14,272x88,274,0,15}
+state	kambi	0

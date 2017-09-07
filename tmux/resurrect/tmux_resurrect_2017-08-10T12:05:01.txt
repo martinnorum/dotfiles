@@ -1,0 +1,9 @@
+pane	otc	0	:..ce/otc-client	1	:*	0	:/home/marnor/Workspace/otc-client	0	zsh	:
+pane	otc	0	:..ce/otc-client	1	:*	1	:/home/marnor/Workspace/otc-client	1	zsh	:
+pane	otc	1	:~	0	:-	0	:/home/marnor	1	zsh	:
+pane	sst	0	:..ce/sst-client	1	:*	0	:/home/marnor/Workspace/sst-client	0	zsh	:
+pane	sst	0	:..ce/sst-client	1	:*	1	:/home/marnor/Workspace/sst-client	1	zsh	:
+window	otc	0	1	:*	3559,272x91,0,0{136x91,0,0,2,135x91,137,0,4}
+window	otc	1	0	:-	bb63,272x91,0,0,6
+window	sst	0	1	:*	b558,272x91,0,0{136x91,0,0,1,135x91,137,0,5}
+state	otc	

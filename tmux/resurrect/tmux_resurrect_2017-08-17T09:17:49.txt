@@ -1,0 +1,12 @@
+pane	0	0	:~	1	:*	0	:/home/marnor	1	zsh	:
+pane	otc	0	:git	1	:*	0	:/home/marnor/Workspace/otc-client	0	nvim	:nvim .
+pane	otc	0	:git	1	:*	1	:/home/marnor/Workspace/otc-client	0	sh	:/bin/sh /usr/bin/yarn run webpack-dev-server -- --testOffering=naga
+pane	otc	0	:git	1	:*	2	:/home/marnor/Workspace/otc-client	1	git	:git diff
+pane	otc	1	:~	0	:-	0	:/home/marnor	1	zsh	:
+pane	sst	0	:..ce/sst-client	1	:*	0	:/home/marnor/Workspace/sst-client	0	zsh	:
+pane	sst	0	:..ce/sst-client	1	:*	1	:/home/marnor/Workspace/sst-client	1	zsh	:
+window	0	0	1	:*	d6fe,546x88,0,0,1
+window	otc	0	1	:*	ca00,546x88,0,0{274x88,0,0,2,113x88,275,0,3,157x88,389,0,4}
+window	otc	1	0	:-	d702,546x88,0,0,5
+window	sst	0	1	:*	4036,546x88,0,0{273x88,0,0,6,272x88,274,0,7}
+state	otc	sst
