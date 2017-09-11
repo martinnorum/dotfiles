@@ -25,3 +25,7 @@ node_modules
 .sass-cache
 
 **.swp
+
+*.martin*
+
+tmux/ressurect/*

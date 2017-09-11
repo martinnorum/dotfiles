@@ -2,4 +2,4 @@ vim/.netrwhist
 vim/plugged
 *.swp
 config/configstore
-tmux/resurrect
+tmux/resurrect/*
