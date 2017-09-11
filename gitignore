@@ -26,6 +26,8 @@ node_modules
 
 **.swp
 
+# Private files
 *.martin*
 
+# Tmux
 tmux/ressurect/*
