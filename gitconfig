@@ -7,6 +7,7 @@
 	br = branch
 	ci = commit
 	s = status
+	sd = diff --staged
 	l = log --pretty=format:\"%h %ad | %s%Cblue%d %Creset[%an]\" --graph --date=short
 	la = log --pretty=format:\"%h %ad | %s%Cblue%d %Creset[%an]\" --graph --date=short --all
 	ub = "!git fetch && git branch -f master origin/master && git merge --ff-only master"
