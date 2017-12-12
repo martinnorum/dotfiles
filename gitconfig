@@ -19,7 +19,7 @@
 	editor = vim
 	excludesfile = ~/.gitignore
 [credential]
-  helper = cache --timeout=3600
+	helper = cache
 [push]
 	default = simple
 [difftool]
