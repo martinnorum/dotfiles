@@ -9,20 +9,11 @@ fi
 
 apps=(
     bash-completion
-    chromedriver
     firebase-cli
-    gettext
     git
-    git-number
-    liquidprompt
     neovim/neovim/neovim
     nvm
-    pyenv
-    pyenv-virtualenv
-    pyenv-virtualenvwrapper
-    rcm
     thefuck
-    tig
     tldr
     tmux
     tree
@@ -37,12 +28,10 @@ brew install "${apps[@]}"
 
 casks=(
     1password
-    adobe-reader
     alfred
     airmail
     atom
     dash
-    day-o
     doxie
     fantastical
     evernote
@@ -50,27 +39,15 @@ casks=(
     flux
     google-chrome
     google-drive
-    google-photos-backup
     handbrake
-    intellij-idea
     iterm2
     java
+    jetbrains-toolbox
     kaleidoscope
-    microsoft-office
-    parallels-desktop
-    plex-media-player
-    slack
-    sketch
-    skitch
-    sourcetree
-    spotify
     spectacle
-    steam
     strongvpn-client
     visual-studio-code
     vlc
-    webstorm
-    whatsapp
 )
 
 brew cask install "${casks[@]}"
