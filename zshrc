@@ -123,6 +123,7 @@ add-zsh-hook chpwd load-nvmrc
 load-nvmrc
 
 export PATH="$PATH:$HOME/.rvm/bin:$HOME/bin" # Add RVM to PATH for scripting
+export PATH="$PATH:$HOME/.local/bin"
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 #export SDKMAN_DIR="/Users/martin.norum/.sdkman"
